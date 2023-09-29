@@ -7,8 +7,9 @@ I went to Full Sail University to learn computer science through their certifica
 * C#
 
 ## My Work
-<img src="">
-![Screenshot 2023-09-29 155003](https://github.com/MrDestinyH/MrDestinyH/assets/116679816/0aacc3f0-8c48-404d-b78c-deb1f99e92ad)
+
+![Screenshot 2023-09-29 155003](https://github.com/MrDestinyH/MrDestinyH/assets/116679816/8197881a-f0b9-4ec8-b8bb-9a42e898077d)
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MrDestinyH)  
