@@ -1,8 +1,10 @@
-### Hi there 👋, Destiny Hernandez
-#### Software Development
+# Destiny Hernandez
+## Software Development
 I went to Full Sail University to learn computer science through their certificate program. I studied C# and C++. I am fascinated with how technology plays a big role in protecting every aspect of humans lives.  Through Full Sail University I have been able to work on a few projects worth mentioning to get me started such as Game of Life Project and a simple banking application. 
 
-Skills: C#, C++
+## Skills and Experience
+* C++
+* C#
 
 
 
